@@ -11,7 +11,10 @@ import javax.swing.WindowConstants;
 import ventanas.VentanaEmple;
 import ventanas.VerdatosEmple;
 
-
+/**
+ * @author <h2>Roxana</h2>
+ *
+ */
 public class Principal extends JFrame implements ActionListener{
 
 	private static final long serialVersionUID = 1L;
